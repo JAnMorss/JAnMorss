@@ -14,7 +14,7 @@
 
 <div align="center">
   <h2>Technologies and Tools</h2>
-  <hr style="width: 200px; border: 1px solid gray;">
+  <hr style="width: 200px; border: 1px gray;">
 </div>
 
 <div align="center">
