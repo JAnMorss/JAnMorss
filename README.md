@@ -1,8 +1,11 @@
+</div> 
+        <div align="center"> 
+            <p> I'm a passionate **back-end developer** skilled in building scalable applications using **pragmatic clean architecture**. I focus on writing clean, maintainable code and designing robust APIs and services. Currently sharpening my front-end skills to become a **full-stack developer** in the near future. </p> 
+        </div> 
+</div> 
 
 <div align="center">
-
-## **Technologies and Tools**  
-
+    ## **Technologies and Tools**  
 </div>
 
 <div align="center">
