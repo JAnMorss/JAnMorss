@@ -5,7 +5,7 @@
   <div style="max-width: 600px; margin: 0 auto; text-align: justify;">
     <p>
       I'm a passionate <strong>back-end developer</strong> skilled in building scalable applications using 
-      <strong>ASP.NET Core Web API</strong> and <strong>pragmatic clean architecture</strong>. I focus on writing clean, maintainable code and designing robust APIs and services. Currently sharpening my front-end skills to become a <strong>full-stack developer</strong> in the near future.
+      <strong>ASP.NET Core Web API</strong> and <strong>pragmatic clean architecture</strong>. I focus on writing clean, maintainable code and designing robust APIs and services. Currently sharpening my front-end skills to become a <strong>full-stack developer</strong> in the near future. I'm a <strong>self-taught developer</strong> with almost <strong>2 years</strong> of experience, starting my journey on <strong>June 30</strong>. Currently sharpening my front-end skills to become a <strong>full-stack developer</strong> in the near future.
     </p>
   </div>
 </div>
