@@ -1,6 +1,6 @@
 <div align="center">
  
-  # **John Anthony Morales**  
+  # John Anthony Morales  
 
   <p>
     I'm a passionate <strong>back-end developer</strong> skilled in building scalable applications using 
@@ -13,13 +13,13 @@
 ---
 
 <div align="center">
-  <h2><strong>Technologies and Tools</strong></h2>
+  <h2>Technologies and Tools</h2>
   <hr style="width: 200px; border: 1px solid gray;">
 </div>
 
 <div align="center">
 
-  <h3><strong>Core Dev Stack</strong></h3>
+  <h3>Core Dev Stack</h3>
   <hr style="width: 150px; border: 1px solid lightgray;">
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
@@ -32,14 +32,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
   </p>
 
-  <h3><strong>Database</strong></h3>
+  <h3>Database</h3>
   <hr style="width: 100px; border: 1px solid lightgray;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </p>
 
-  <h3><strong>Tools</strong></h3>
+  <h3>Tools</h3>
   <hr style="width: 100px; border: 1px solid lightgray;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
