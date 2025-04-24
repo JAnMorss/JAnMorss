@@ -4,7 +4,7 @@
 
   <p>
     I'm a passionate <strong>back-end developer</strong> skilled in building scalable applications using 
-    <strong>pragmatic clean architecture</strong>.<br>
+    <strong>ASP.NET Core Web API</strong> and <strong>pragmatic clean architecture</strong>.<br>
     I focus on writing clean, maintainable code and designing robust APIs and services.<br>
     Currently sharpening my front-end skills to become a <strong>full-stack developer</strong> in the near future.
   </p>
@@ -19,7 +19,6 @@
 <div align="center">
 
   <h3>Core Dev Stack</h3>
-  <hr style="width: 150px; border-top: 1px dashed #ddd;">
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -32,22 +31,18 @@
   </p>
 
   <h3>Database</h3>
-  <hr style="width: 100px; border-top: 1px dashed #ddd;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </p>
 
   <h3>Tools</h3>
-  <hr style="width: 100px; border-top: 1px dashed #ddd;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="50" height="50"/>
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1696435257/Brand%20Assets/Social%20Icons/Cloud/Cloudinary_Logo_Icon.svg" alt="Cloudinary" width="50" height="50"/>
   </p>
 </div>
 
