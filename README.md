@@ -1,5 +1,11 @@
 
 <div align="center">
+
+## **Technologies and Tools**  
+
+</div>
+
+<div align="center">
     <p align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
