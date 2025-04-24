@@ -14,13 +14,12 @@
 
 <div align="center">
   <h2>Technologies and Tools</h2>
-  <hr style="width: 200px; border: 1px gray;">
 </div>
 
 <div align="center">
 
   <h3>Core Dev Stack</h3>
-  <hr style="width: 150px; border: 1px solid lightgray;">
+  <hr style="width: 150px; border-top: 1px dashed #ddd;">
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -33,14 +32,14 @@
   </p>
 
   <h3>Database</h3>
-  <hr style="width: 100px; border: 1px solid lightgray;">
+  <hr style="width: 100px; border-top: 1px dashed #ddd;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   </p>
 
   <h3>Tools</h3>
-  <hr style="width: 100px; border: 1px solid lightgray;">
+  <hr style="width: 100px; border-top: 1px dashed #ddd;">
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
