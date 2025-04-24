@@ -1,12 +1,19 @@
-
 <div align="center">
+ 
+ # **John Anthony Morales**  
+ 
  <p>
     I'm a passionate <strong>back-end developer</strong> skilled in building scalable applications using 
     <strong>pragmatic clean architecture</strong>.<br>
     I focus on writing clean, maintainable code and designing robust APIs and services.<br>
     Currently sharpening my front-end skills to become a <strong>full-stack developer</strong> in the near future.
   </p>
-        
+</div>
+
+---
+
+<div align="center">
+ 
 ## **Technologies and Tools**  
 
 </div>
@@ -23,3 +30,5 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
     </p>
 </div>
+
+---
