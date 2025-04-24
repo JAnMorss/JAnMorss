@@ -5,7 +5,7 @@
 </div> 
 
 <div align="center">
-    ## **Technologies and Tools**  
+## **Technologies and Tools**  
 </div>
 
 <div align="center">
