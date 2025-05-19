@@ -1,20 +1,4 @@
 <div align="center">
- 
-  # John Anthony Morales  
-
-  <div style="max-width: 600px; margin: 0 auto; text-align: justify;">
-    <p>
-      I'm a passionate <strong>back-end developer</strong> skilled in building scalable applications using 
-      <strong>ASP.NET Core Web API</strong> and <strong>pragmatic clean architecture</strong>. I focus on writing clean, maintainable code and designing robust APIs and services.
-     <br><br>
-     I'm a <strong>self-taught developer</strong> with almost <strong>2 years</strong> of experience, starting my journey on <strong>July</strong>. Currently sharpening both of my back-end and front-end skills to become a <strong>full-stack developer</strong> in the near future.
-    </p>
-  </div>
-</div>
-
----
-
-<div align="center">
   <h2>Technologies and Tools</h2>
 </div>
 
