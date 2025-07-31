@@ -1,6 +1,6 @@
 <div align="center"> 
     
-Aspiring .NET Software Developer with hands-on experience in C#, ASP.NET Core MVC, JavaScript, HTML, CSS, and SQL. Currently expanding my expertise in Clean Architecture, Domain-Driven Design (DDD), CQRS, and Next.js. Passionate about writing clean, maintainable code and continuously improving through real-world projects and self-study.
+Aspiring .NET Software Developer with hands-on experience in C#, ASP.NET, JavaScript, HTML, CSS, and SQL. Currently expanding my expertise in Clean Architecture, Domain-Driven Design (DDD), CQRS, and Next.js. Passionate about writing clean, maintainable code and continuously improving through real-world projects and self-study.
 
 </div>
 
