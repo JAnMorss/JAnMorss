@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Tech Stacks
+### Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,tailwind,js,ts,react,jquery" />
