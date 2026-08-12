@@ -7,10 +7,8 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,tailwind,js,ts,react,jquery" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,tailwind,js,ts,react,nextjs,jquery" />
 </p>
-
-</div>
 
 </div>
 
@@ -30,6 +28,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50"/>
     </td>
   </tr>
