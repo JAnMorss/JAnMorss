@@ -1,15 +1,12 @@
 <div align="center">
   <h2>Technologies and Tools</h2>
 </div>
-
 <div align="center">
 
 ### Tech Stack
-
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,tailwind,js,ts,react,nextjs,jquery" />
 </p>
-
 </div>
 
 <table align="center">
@@ -21,6 +18,7 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
@@ -30,6 +28,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
     </td>
   </tr>
 </table>
