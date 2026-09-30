@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-### Tech Stack
+### Tech Stacks
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap,tailwind,js,ts,react,nextjs,jquery" />
 </p>
